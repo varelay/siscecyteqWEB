@@ -23,6 +23,7 @@
       <li class="f"><a href="menu.php" style="color: yellowgreen; font-family: 'Pacifico', cursive; font-size: 1.3rem;" class="active">Inicio</a></li>
       <li class="f"><a href="consultausu.php" style="font-family: 'Pacifico', cursive; font-size: 1.3rem;">Usuarios</a></li>
       <li class="f"><a href="consultaAlumnos.php" style="font-family: 'Pacifico', cursive; font-size: 1.3rem;">Alumnos</a></li>
+      <li class="f"><a href="Inventario CECyTEQ Corregidora Instalador.exe" download="Inventario CECyTEQ Corregidora Instalador.exe" style="font-family: 'Pacifico', cursive; font-size: 1.3rem;">Descargar para Windows</a></li>
       <li class="a"><button onclick="window.location.href='login/salir.php'" name="btncerrar" type="button" style="border-color: #FF5733; color: #FF5733; font-family: 'Pacifico', cursive;" class="btn btn-outline">Cerrar Sesión</button></li>
   </ul>
   </div>
